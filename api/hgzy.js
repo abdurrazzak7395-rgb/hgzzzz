@@ -6,7 +6,7 @@ const CURRENT_PATH = '/WingO_30S.json';
 const HISTORY_PATH = '/WingO_30S/GetHistoryIssuePage.json';
 
 // change these if target expects specific origin/referer
-const REFERER_ORIGIN = 'https://amarclub17.com';
+const REFERER_ORIGIN = 'https://hgzygame.co/';
 const DEFAULT_HEADERS = {
   'User-Agent': 'Mozilla/5.0 (compatible; VercelProxy/1.0)',
   'Accept': 'application/json, text/plain, */*',
